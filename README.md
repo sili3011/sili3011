@@ -7,7 +7,7 @@ Currently I am working on a Magic: The Gahtering collection-manager/deck-builder
 
 ### ⚡ GitHub stats:
 
-![Silvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sili3011&show_icons=true&theme=dracula)
+![Silvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sili3011&show_icons=true&theme=dracula&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sili3011&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
