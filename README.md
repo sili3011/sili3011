@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there, I am Silvio
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bavarian+software+engineer;Full+stack+handy-man;Pop+culture+devourer;Nice+to+meet+you!)](https://git.io/typing-svg)
+
+I like to develop fun projects that support my hobbies and learn new technologies while at it.  
+Currently I am working on a Magic: The Gahtering collection-manager/deck-builder/card-reader Angular app with a node backend server to support it.
+
+### ⚡ GitHub stats:
+
+![Silvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sili3011&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sili3011&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sili3011/sili3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
