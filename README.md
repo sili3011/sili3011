@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bavarian+software+engineer;Full+stack+handy-man;Pop+culture+devourer;Nice+to+meet+you!)](https://git.io/typing-svg)
 
-I like to develop fun projects that support my hobbies and learn new technologies while at it.  
-Currently I am working on a Magic: The Gahtering collection-manager/deck-builder/card-reader Angular app with a node backend server to support it.
+I like to develop fun projects that support my hobbies and learn new technologies while I am at it.  
+Currently I am working on a Magic: The Gahtering collection-manager/deck-builder/card-detector Angular app with a node backend server to support it.
 
 ### ⚡ GitHub stats:
 
