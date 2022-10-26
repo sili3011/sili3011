@@ -6,7 +6,9 @@ I like to develop fun projects that support my hobbies and interests while learn
 
 Currently I am working on [:sauropod: DinoDigs](https://www.whereismydig.at), an Angular app that uses GoogleMaps and PaleoBioDB to visualize all dinosaur fossil occurrences.
 
-[⚖️ tradingpost](https://mtg-tradingpost.com), a Magic: The Gathering collection-manager/deck-builder/card-detector Angular app is currently on hold.
+While working on that I realized that using GoogleMaps with Angular can be tricky, so I developed a npm package that makes that easier: [:round_pushpin: ngx-mapit](https://www.npmjs.com/package/ngx-mapit)
+
+[⚖️ tradingpost](https://mtg-tradingpost.com), a Magic: The Gathering collection-manager/deck-builder/card-detector Angular app is currently developed slowly but surely. It's already usable and pretty helpful for keeping an overview over your collection, but please keep in mind that it's still in a beta phase!
 
 ### ⚡ GitHub stats:
 
