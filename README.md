@@ -8,7 +8,7 @@ Currently I am working on [:sauropod: DinoDigs](https://www.whereismydig.at), an
 
 While working on that I realized that using GoogleMaps with Angular can be tricky, so I developed a npm package that makes that easier: [:round_pushpin: ngx-mapit](https://www.npmjs.com/package/ngx-mapit)
 
-[⚖️ tradingpost](https://mtg-tradingpost.com), a Magic: The Gathering collection-manager/deck-builder/card-detector Angular app is currently developed slowly but surely. It's already usable and pretty helpful for keeping an overview over your collection, but please keep in mind that it's still in a beta phase!
+[⚖️ tradingpost](https://mtg-tradingpost.com), a Magic: The Gathering collection-manager/deck-builder/card-detector Angular app is currently developed slowly but surely. It's already usable and pretty helpful for keeping an overview over your collection, but please keep in mind that it's still in a beta phase! If you are interested in supporting the developement of mtg-tradinpost please consider supporting my work over on [patreon](https://www.patreon.com/mtgtradingpost).
 
 ### ⚡ GitHub stats:
 
