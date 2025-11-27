@@ -4,8 +4,6 @@
 
 I like to develop fun projects that support my hobbies and interests while learning and exploring new technologies along the way.
 
-### Projects
-
 Fun things.
 
 [:sauropod: DinoDigs](https://www.whereismydig.at), an Angular app that uses GoogleMaps and PaleoBioDB to visualize all dinosaur fossil occurrences.
